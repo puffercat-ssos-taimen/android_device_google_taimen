@@ -20,6 +20,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/ssos_taimen.mk
 
 COMMON_LUNCH_CHOICES := \
-     ssos_raphael-user \
-     ssos_raphael-userdebug \
-     ssos_raphael-eng
+     ssos_taimen-user \
+     ssos_taimen-userdebug \
+     ssos_taimen-eng
